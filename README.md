@@ -10,7 +10,7 @@ A Python-based Finance Manager application to track income, expenses, and balanc
 
 ## 🛠️ Tech Stack
 - Python
-- Flask (if used)
+- Flask 
 
 ## ▶️ Run Project
 git clone https://github.com/Bhuvaneshvari-123/Finance-Manager.git
